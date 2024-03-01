@@ -5,6 +5,9 @@ In this project, I had my Geometry students run a simplified version of the Buff
 
 If you conducted this experiment an insane amount of iterations, the propability will result an aproximation of pi.
 
+#### Simulation
+[Buffon's Needle Simulation](https://www.ventrella.com/Buffon/)
+
 ## External Documents
 These document are the student instructions and the students recording spreadsheet.<br>
 [Students Instructions](https://github.com/Bshell13/buffons_toothpicks/blob/main/Buffon's%20Analysis%20Instructions.docx) <br>
@@ -24,3 +27,8 @@ py -m pip freeze > requirments.txt
 
 ### List of External Libraries
 -  Numpy
+
+## Credits
+https://mste.illinois.edu/activity/buffon/ - University of Illinios Office of Mathematics, Science, and Technology
+https://s3.amazonaws.com/prod-hmhco-vmg-craftcms-public/pi-day-activity-high-school.jpg
+
