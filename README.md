@@ -29,6 +29,6 @@ py -m pip freeze > requirments.txt
 -  Numpy
 
 ## Credits
-https://mste.illinois.edu/activity/buffon/ - University of Illinios Office of Mathematics, Science, and Technology
+https://mste.illinois.edu/activity/buffon/ - University of Illinios Office of Mathematics, Science, and Technology<br>
 https://s3.amazonaws.com/prod-hmhco-vmg-craftcms-public/pi-day-activity-high-school.jpg
 
