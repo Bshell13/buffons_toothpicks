@@ -7,8 +7,8 @@ If you conducted this experiment an insane amount of iterations, the propability
 
 ## External Documents
 These document are the student instructions and the students recording spreadsheet.<br>
-[Students Instructions](https://docs.google.com/document/d/1u5bY6uAqDca5qn2041foTRbbd32cP3d3Sqjed_VhrQ4/edit?usp=sharing) <br>
-[Skeleton Spreadsheet](https://docs.google.com/spreadsheets/d/1lr1O2zr7ujXikG6ItsZW4FE45K3W9Uv_PQFkqRxGcbs/edit?usp=sharing)
+[Students Instructions](https://github.com/Bshell13/buffons_toothpicks/blob/main/Buffon's%20Analysis%20Instructions.docx) <br>
+[Skeleton Spreadsheet](https://github.com/Bshell13/buffons_toothpicks/blob/main/Buffon's%20Analysis.xlsx)
 
 ## Create a Virtual Environment
 ```shell
