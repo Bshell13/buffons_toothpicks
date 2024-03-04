@@ -26,7 +26,11 @@ py -m pip freeze > requirments.txt
 ```
 
 ### List of External Libraries
--  Numpy
+-  numpy
+-  pandas
+-  pyarrow
+-  seaborn
+-  matplotlib
 
 ## Credits
 https://mste.illinois.edu/activity/buffon/ - University of Illinios Office of Mathematics, Science, and Technology<br>
